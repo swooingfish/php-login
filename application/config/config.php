@@ -92,9 +92,9 @@ define('COOKIE_DOMAIN', '.localhost');
  */
 define('DB_TYPE', 'mysql');
 define('DB_HOST', '127.0.0.1');
-define('DB_NAME', 'login');
-define('DB_USER', 'root');
-define('DB_PASS', 'mysql');
+define('DB_NAME', 'db-php-login');
+define('DB_USER', 'dbu-php-login');
+define('DB_PASS', 'password');
 
 /**
  * Configuration for: Hashing strength
